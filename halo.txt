@@ -1,0 +1,4 @@
+Hari Sabtu Tanggal 3 Maret 2018
+Belajar menggunakan Unity bersama teman-teman.
+Karena telat, tidak terlalu paham apa yang terjadi.
+tadi .netfx 3.5 barusan diinstall karena sebelumnya tidak bisa diinstall (Instal ulang w10)
